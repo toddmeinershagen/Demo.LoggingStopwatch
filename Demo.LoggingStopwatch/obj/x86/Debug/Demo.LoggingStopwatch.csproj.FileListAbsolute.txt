@@ -1,0 +1,7 @@
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\bin\Debug\Demo.LoggingStopwatch.exe
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\bin\Debug\Demo.LoggingStopwatch.pdb
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\bin\Debug\log4net.dll
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\bin\Debug\log4net.xml
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\obj\x86\Debug\Demo.LoggingStopwatch.exe
+\\psf\home\documents\visual studio 2010\Projects\Demo.LoggingStopwatch\Demo.LoggingStopwatch\obj\x86\Debug\Demo.LoggingStopwatch.pdb
